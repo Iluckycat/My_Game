@@ -1,0 +1,13 @@
+﻿  Dungeon.cpp
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(276): warning C4018: <: несоответствие типов со знаком и без знака
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(352): warning C4018: <: несоответствие типов со знаком и без знака
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(120): warning C4715: Dungeon::go_character: значение возвращается не при всех путях выполнения
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(201): warning C4715: Dungeon::check_enemy: значение возвращается не при всех путях выполнения
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(207): warning C4715: Dungeon::use_skill: значение возвращается не при всех путях выполнения
+d:\study\инфа\oop\lab 4\game 2\my_game\my_game\dungeon.cpp(346): warning C4715: Dungeon::change_door: значение возвращается не при всех путях выполнения
+  My_Game.vcxproj -> D:\Study\Инфа\OOP\Lab 4\Game 2\My_Game\Debug\My_Game.exe

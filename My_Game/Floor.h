@@ -1,0 +1,16 @@
+#pragma once
+#include "Square.h"
+class Floor : public Square
+{
+private:
+	bool state;
+public:
+	Floor(bool st = 0) : state(st) {};
+	void set_state(bool s) { state = s; }
+	virtual int get_type() {
+		if (state == 0) return flooor;
+		else return winner;
+	}
+	~Floor() {}
+};
+
